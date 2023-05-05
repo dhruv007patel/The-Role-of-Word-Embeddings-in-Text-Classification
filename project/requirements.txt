@@ -1,0 +1,16 @@
+numpy
+scipy
+tqdm
+pandas-profiling
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+jupyter nbextension enable --py widgetsnbextension
+transformers
+pandas
+torch
+scikit-learn
+spacy
+seaborn
+matplotlib
+fasttext
