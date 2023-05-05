@@ -1,0 +1,11 @@
+- (Project Idea) Reviewed a number of NLP academic papers to get an idea of how we want to design our experiment.
+- (Project Idea) Searched for a dataset that meets our needs.
+- (Project Proposal) Contributed in Drafting, revising and submitting the project proposal.  
+- (Milestone Report) Worked with Rakhi to draft, revised and submitted final version based on the feedback received from our project proposal. 
+- (Development) Developed / tested / cleaned up txtclassifer_glove.py file. 
+- (Development) Developed / tested / cleaned up txtclassifer_glove.ipynb file.
+- (Presentation) Participated in the presentation video preparation.
+- (Presentation) Participated in the live presentation to TAs.
+- (Final Report) Contributed to Model (especially for Glove with CNN, its enhance version, and the analysis) for the report.
+- (Final Code) Added evaluation python notebook that runs the baseline model  on the same test data for fair comparison. 
+- (Final Report) Overall coordination of the final code, code clean-up and adding readme file for the repository.  
